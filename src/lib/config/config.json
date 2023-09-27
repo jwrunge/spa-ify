@@ -1,0 +1,11 @@
+{
+    "header": {
+        "selector": "header"
+    },
+    "body": {
+        "selector": "#body"
+    },
+    "footer": {
+        "selector": "footer"
+    }
+}
