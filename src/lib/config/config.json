@@ -1,11 +1,17 @@
 {
     "header": {
-        "selector": "header"
+        "selector": "header",
+        "regex": false,
+        "allowScriptExecution": true
     },
     "body": {
-        "selector": "#body"
+        "selector": "#body",
+        "regex": false,
+        "allowScriptExecution": true
     },
     "footer": {
-        "selector": "footer"
+        "selector": "footer",
+        "regex": false,
+        "allowScriptExecution": true
     }
 }
